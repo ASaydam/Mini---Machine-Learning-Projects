@@ -1,4 +1,4 @@
-# Mini---Machine-Learning-Projects
+# Mini-Machine-Learning-Projects
 
 This repository was created to keep my personal machine learning projects organized.
 
